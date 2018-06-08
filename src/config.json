@@ -1,0 +1,5 @@
+{
+  "proxy":"", //"socks5://127.0.0.1:9050",
+  "name": "jonas",
+  "torExecutable": "c/ProgramData/chocolatey/lib/tor-browser/tools/tor-browser/Browser/TorBrowser/Tor/tor.exe"
+}
